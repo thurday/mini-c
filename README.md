@@ -1,4 +1,4 @@
-my-test-c
+mini-c
 =========
 
 funny compile
